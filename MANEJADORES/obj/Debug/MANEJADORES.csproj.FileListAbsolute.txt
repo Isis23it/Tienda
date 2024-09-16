@@ -1,0 +1,15 @@
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\bin\Debug\MANEJADORES.dll
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\bin\Debug\MANEJADORES.pdb
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\bin\Debug\AccesoDatos.dll
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\bin\Debug\CONEXION.dll
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\bin\Debug\MySql.Data.dll
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\bin\Debug\System.Memory.dll
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\bin\Debug\System.Buffers.dll
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\bin\Debug\AccesoDatos.pdb
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\obj\Debug\MANEJADORES.csproj.AssemblyReference.cache
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\obj\Debug\MANEJADORES.csproj.CoreCompileInputs.cache
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\obj\Debug\MANEJADORES.csproj.CopyComplete
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\obj\Debug\MANEJADORES.dll
+C:\Users\isach\source\repos\TIENDA\MANEJADORES\obj\Debug\MANEJADORES.pdb

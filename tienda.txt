@@ -1,0 +1,8 @@
+CREATE DATABASE tienda;
+CREATE TABLE producto(
+idproducto INT PRIMARY KEY AUTO_INCREMENT,
+nombre VARCHAR(255),
+descripcion VARCHAR(255),
+precio DECIMAL(6,2));
+SELECT * FROM producto;
+DESCRIBE producto;
